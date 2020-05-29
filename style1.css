@@ -1,0 +1,36 @@
+body
+{
+  background-color: #8EFFB8;
+}
+
+h1
+{
+  color:#ffffff;
+  font-family: "Monotype Corsiva";
+  font-variant: small-caps;
+  text-align: center;
+  background-color: #012B00;
+}
+
+nav
+{
+  text-align: center;
+  font-size: 150%;
+  color: #026400;
+}
+
+h2
+{
+  color: #033904;
+  font-family: "Cooper Black";
+  text-align: justify;
+}
+
+p{font-style: italic;}
+
+footer
+{
+  text-align: center;
+  font-style: oblique;
+  background-color: #FF9595
+}
